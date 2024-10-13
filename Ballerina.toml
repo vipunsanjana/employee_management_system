@@ -1,0 +1,8 @@
+[package]
+org = "aravinthan"
+name = "employee_management_system"
+version = "0.1.0"
+distribution = "2201.9.3"
+
+[build-options]
+observabilityIncluded = true
